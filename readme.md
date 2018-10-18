@@ -6,7 +6,7 @@ so i build the starter component often i use it.
 
 ---
 
-###Usage
+### Usage
 
 **1. git clone :** `https://github.com/anggerpenceng/RestifyStarterPack.git` <br>
 **cp .env.example to .env** <br>
@@ -15,7 +15,7 @@ so i build the starter component often i use it.
 
 ---
 
-###Component
+### Component
 
 | Name                | Description  |
 | :-----------------  | :------------- |
