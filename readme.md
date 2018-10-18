@@ -8,10 +8,10 @@ so i build the starter component often i use it.
 
 ## Usage
 
-**1. git clone :** `https://github.com/anggerpenceng/RestifyStarterPack.git` <br>
-**cp .env.example to .env** <br>
-**npm install** <br>
-**npm start**
+1. git clone : `https://github.com/anggerpenceng/RestifyStarterPack.git` <br>
+2. cp .env.example to .env 
+3. npm install
+4. npm start
 
 ---
 
