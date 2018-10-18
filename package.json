@@ -1,0 +1,25 @@
+{
+  "name": "RestifyStarting",
+  "version": "1.0.0",
+  "description": "This app is starter pack of restify micro framework",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js --exec babel-node",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "dotenv": "^6.1.0",
+    "jsonwebtoken": "^8.3.0",
+    "mongoose": "^5.3.4",
+    "restify": "^7.2.1",
+    "restify-jwt": "^0.4.0",
+    "restify-router": "^0.5.0"
+  }
+}
